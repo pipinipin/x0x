@@ -2,8 +2,8 @@
 
 #Let's start with introduction
 
-print "Hi, I am x0x. Could we introduce ourselves? (yes/no)\n"
-answer = input()
+print "Hi, I am x0x. Could we introduce ourselves? (yes/no)"
+answer = raw_input()
 if answer.lower() == 'yes':
     print "Okay, what is your name"
 elif answer.lower() == 'no':
