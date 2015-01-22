@@ -5,7 +5,18 @@
 print "Hi, I am x0x. Could we introduce ourselves? (yes/no)"
 answer = raw_input()
 if answer.lower() == 'yes':
-    print "Okay, what is your name"
+    print "Okay, what is your name?"
+    name = raw_input()
+    print "Hi", name
+    print "Nice to meet you."
+    print "What are you going to do?"
+    print '1. Say "good bye"'
+    print '2. Say "Thank you"'
+    answer = raw_input()
+    if answer == '1':
+        print 'Well, good bye', name
+    elif answer == '2':
+        print 'Sakalangkong', name
 elif answer.lower() == 'no':
     print "thank you"
 else:

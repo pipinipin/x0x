@@ -1,3 +1,4 @@
 .last_tmp.py
 .run.log
 .*
+*.pyc
