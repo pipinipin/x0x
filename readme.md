@@ -1,3 +1,8 @@
-x0x now you can fly across the sea
-From this moment I started this project with this repository. Please contact me if any questions.
-Created in 20 Januari 2015.
+This is x0x. A terminal based application.
+To run this app, goto Terminal. Move to x0x folder then type
+
+python hi.py
+
+Any question or feedback please send an email to afwanwalihamim@gmail.com
+
+Thank you. 😀
